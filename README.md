@@ -4,11 +4,11 @@ Easy and simple webshop about computer games.  Created using:
 
 Download all file and open **index.html** to run.
 
- ![index.html](img/git/index.png)
+ ![index.html](Game_zone/img/git/index.png)
 
- ![login.html](img/git/akcesoria.png)
+ ![login.html](Game_zone/img/git/akcesoria.png)
 
- ![solar1.html](img/git/zakup.png)
+ ![solar1.html](Game_zone/img/git/zakup.png)
 
 
 [Materialize]: <https://materializecss.com/getting-started.html>
