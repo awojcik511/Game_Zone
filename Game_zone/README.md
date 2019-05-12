@@ -6,9 +6,9 @@ Download all file and open **index.html** to run.
 
  ![index.html](img/git/index.png)
 
- ![login.html](img/git/zakup/akcesoria.png)
+ ![login.html](img/git/akcesoria.png)
 
- ![solar1.html](img/git/akcesoria/zakup.png)
+ ![solar1.html](img/git/zakup.png)
 
 
 [Materialize]: <https://materializecss.com/getting-started.html>
